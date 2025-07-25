@@ -1,6 +1,6 @@
 id = "cyberpunk2077-theme"
-name = "Cyberpunk 2077 Theme"
-version = "0.1.2"
+name = "Cyberpunk 2077 Theme Fixed"
+version = "0.2.0"
 schema_version = 1
 authors = ["Jason Sandeman <jw.sandeman@gmail.com>"]
 description = "A theme inspired by CD Projekt RED's Cyberpunk 2077 - neon-bright colors on dark backgrounds"

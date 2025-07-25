@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Cyberpunk 2077",
+  "name": "Cyberpunk 2077 Fixed",
   "author": "Jason Sandeman",
   "themes": [
     {
-      "name": "Cyberpunk 2077",
+      "name": "Cyberpunk 2077 Fixed",
       "appearance": "dark",
       "style": {
         "border": "#27293260",

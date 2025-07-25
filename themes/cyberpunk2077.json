@@ -38,7 +38,7 @@
         "icon.placeholder": "#37EBF340",
         "icon.accent": "#2CF6B3",
         "status_bar.background": "#FDF500",
-        "status_bar.foreground": "#1B1C22",
+        "status_bar.foreground": "#000000",
         "title_bar.background": "#1B1C22",
         "toolbar.background": "#272932",
         "tab_bar.background": "#272932",
@@ -281,6 +281,15 @@
           },
           "variant": {
             "color": "#E455AE"
+          },
+          "component": {
+            "color": "#2CF6B3"
+          },
+          "jsx_tag": {
+            "color": "#2CF6B3"
+          },
+          "tsx_tag": {
+            "color": "#2CF6B3"
           }
         }
       }

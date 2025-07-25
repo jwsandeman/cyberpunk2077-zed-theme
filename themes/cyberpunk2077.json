@@ -200,6 +200,22 @@
           "keyword": {
             "color": "#0E79B2"
           },
+          "keyword.control": {
+            "color": "#CB1DCD",
+            "font_weight": 700
+          },
+          "keyword.control.flow": {
+            "color": "#CB1DCD",
+            "font_weight": 700
+          },
+          "keyword.control.return": {
+            "color": "#CB1DCD",
+            "font_weight": 700
+          },
+          "keyword.control.conditional": {
+            "color": "#CB1DCD",
+            "font_weight": 700
+          },
           "label": {
             "color": "#0E79B2"
           },

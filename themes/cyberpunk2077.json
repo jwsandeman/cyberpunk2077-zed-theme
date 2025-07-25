@@ -39,6 +39,7 @@
         "icon.accent": "#2CF6B3",
         "status_bar.background": "#FDF500",
         "status_bar.foreground": "#000000",
+        "status_bar.text": "#000000",
         "title_bar.background": "#1B1C22",
         "toolbar.background": "#272932",
         "tab_bar.background": "#272932",
@@ -259,7 +260,7 @@
             "color": "#E455AE"
           },
           "tag": {
-            "color": "#0E79B2"
+            "color": "#2CF6B3"
           },
           "text.literal": {
             "color": "#2CF6B3"

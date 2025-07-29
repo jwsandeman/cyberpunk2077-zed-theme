@@ -108,6 +108,8 @@
         "created": "#2CF6B3",
         "deleted": "#FF5555",
         "error": "#FF5555",
+        "error.background": "#FF555520",
+        "error.border": "#FF5555",
         "hidden": "#37EBF360",
         "hint": "#37EBF370",
         "ignored": "#6272A4",
@@ -118,6 +120,13 @@
         "success": "#2CF6B3",
         "unreachable": "#6272A4",
         "warning": "#CB1DCD",
+        "warning.background": "#CB1DCD20",
+        "warning.border": "#CB1DCD",
+
+        "diagnostic.error.background": "#FF555520",
+        "diagnostic.warning.background": "#CB1DCD20",
+        "diagnostic.info.background": "#37EBF320",
+        "diagnostic.hint.background": "#37EBF320",
 
         "players": [
           { "cursor": "#CB1DCD", "selection": "#CB1DCD30" },
